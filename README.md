@@ -1,6 +1,5 @@
 
-```
-# React-Django Integration
+## React-Django Integration
 
 This repository demonstrates a simple integration between a React frontend and a Django backend. It serves as a starting point for building a full-stack web application using React and Django.
 
@@ -21,61 +20,60 @@ This repository demonstrates a simple integration between a React frontend and a
 
 1. Clone the repository:
 
-```bash
+
 git clone https://github.com/Rahil-Nelliyali/React-Django-Integration.git
 cd react-django-integration
-```
+
 
 2. Frontend Setup:
 
    - Navigate to the `frontend` directory:
-   ```bash
+
    cd frontend
-   ```
+ 
 
    - Install the required dependencies:
-   ```bash
+   
    npm install
-   ```
-
+ 
    - Start the development server:
-   ```bash
+
    npm start
-   ```
+  
 
    The React frontend will be accessible at http://localhost:3000.
 
 3. Backend Setup:
 
    - Navigate to the `backend` directory:
-   ```bash
+   
    cd ../backend
-   ```
+   
 
    - Create a virtual environment:
-   ```bash
+   
    python -m venv venv
-   ```
+ 
 
    - Activate the virtual environment:
-   ```bash
+  
    source venv/bin/activate
-   ```
+ 
 
    - Install the required Python packages:
-   ```bash
+ 
    pip install -r requirements.txt
-   ```
+ 
 
    - Apply database migrations:
-   ```bash
+  
    python manage.py migrate
-   ```
+  
 
    - Start the Django development server:
-   ```bash
+   
    python manage.py runserver
-   ```
+   
 
    The Django backend will be accessible at http://localhost:8000.
 
