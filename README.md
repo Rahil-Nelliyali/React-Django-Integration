@@ -1,9 +1,6 @@
-# React-Django-Integration
-
-
 
 ```
-
+# React-Django Integration
 
 This repository demonstrates a simple integration between a React frontend and a Django backend. It serves as a starting point for building a full-stack web application using React and Django.
 
@@ -25,7 +22,7 @@ This repository demonstrates a simple integration between a React frontend and a
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/react-django-integration.git
+git clone https://github.com/Rahil-Nelliyali/React-Django-Integration.git
 cd react-django-integration
 ```
 
@@ -93,5 +90,5 @@ cd react-django-integration
 Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
 
 
+```
 
-Feel free to customize the content of the README file based on your specific project structure and requirements.
